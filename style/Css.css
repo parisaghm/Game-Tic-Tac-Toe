@@ -1,0 +1,32 @@
+.turnInfo{
+    text-align:center;
+    font-size:40px;
+    font-weight:bold;
+    margin-bottom:10px;
+  }
+  .container{   
+    border: 2px solid red;
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+  }
+  
+  .container div{
+    float: left;
+    height: 102px;
+    width: 131.3px;
+    border: 1px solid black;
+    text-align:center;
+    padding-top:30px;
+    font-size:50px;
+  }
+
+  .active{
+    color: red;
+  }
+
+  .btn-reset{
+    width: 100%;
+    text-align: center;
+    margin: 20px 0;
+  }
