@@ -93,7 +93,4 @@ var finishGame = false;
       }
     });
 
-  // $('.btn-reset').click(function () {
-  //   $('.game-tic').empty();
-  // });
 });
